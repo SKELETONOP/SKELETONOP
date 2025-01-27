@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SKELETONOP
+- 👋 Hi, I’m @SKELETON
 - 👀 I’m interested in mobile application and web develepment
 - 🌱 I’m currently learning python🐍
 - 💞️ I’m looking to collaborate on learning stuffs realated to machine learning.
